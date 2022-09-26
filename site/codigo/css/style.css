@@ -118,7 +118,7 @@ article#historia-idosos p{
 }
 
 
-/*Principal - aside - costureira
+/*Principal - aside 
 ------------------------------------*/
 aside{
     width: 350px;
@@ -138,7 +138,7 @@ aside{
     padding-bottom: 27px;
 }
 
-/*Principal - aside - destaques da loja
+/*Principal - aside - destaque
 ------------------------------------*/
 section#destaque{
     padding: 0 27px 0 27px;
